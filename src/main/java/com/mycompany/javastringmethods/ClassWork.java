@@ -32,6 +32,8 @@ public class ClassWork {
         }
         else{
             System.out.println("Wrong email format");
+            //Changes made on this comment
+            System.out.println("");
         }
     }
 }
